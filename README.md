@@ -1,1 +1,3 @@
-# rock-paper-scissors
+# Udacity
+## Intro to programming
+### Module: python
