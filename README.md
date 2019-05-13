@@ -1,3 +1,3 @@
 # Udacity
 ## Intro to programming
-### Module: python
+### Module: Python
