@@ -1,3 +1,6 @@
 # Udacity
-## Intro to programming
-### Module: Python
+----
+## Intro to Programming Nanodegree Program
+----
+* Module: Python
+* Project: Rock Paper Scissors
