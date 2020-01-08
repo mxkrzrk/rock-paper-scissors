@@ -1,6 +1,4 @@
-# Udacity
-----
-## Intro to Programming Nanodegree Program
+# Udacity project: Rock Paper Scissors
 
+* Nanodegree: Intro to Programming Nanodegree Program
 * Module: Python
-* Project: Rock Paper Scissors
