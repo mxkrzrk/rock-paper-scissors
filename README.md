@@ -22,3 +22,6 @@ git clone https://github.com/Massimilianok/rock-paper-scissors.git
 ```
 python3 rps.py
 ```
+
+## License
+`rock-paper-scissors` is MIT licensed.
